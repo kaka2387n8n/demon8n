@@ -1,0 +1,28 @@
+# Video Processing
+ffmpeg-python==0.2.1
+opencv-python==4.8.0.74
+Pillow==10.0.0
+
+# API Clients
+requests==2.31.0
+yt-dlp==2023.10.13
+python-dotenv==1.0.0
+
+# Audio Processing
+pydub==0.25.1
+speech-recognition==3.10.0
+
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Database
+psycopg2-binary==2.9.7
+
+# Utilities
+python-dateutil==2.8.2
+pyaml==6.0.1
+loguru==0.7.2
+
+# Testing
+pytest==7.4.0
